@@ -1,2 +1,2 @@
-# kickstart
-Solutions for Google Kickstart problems in Python and C++
+# Kickstart
+Google Kickstart solutions in Python and C++
